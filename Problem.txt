@@ -1,3 +1,6 @@
 
 
+  প্রজেক্ট এর নাম পরিবর্তন করে দিতে হবে - 'wpnewssite_theme'
+  আর README.md তে লিখতে হবে - 'This is a wordpress theme for news site.' 
+
  
